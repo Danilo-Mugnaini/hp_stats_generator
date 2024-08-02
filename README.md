@@ -1,5 +1,5 @@
 
-# Character Stats Generator
+# HP Stats Generator
 
 Welcome to the Character Stats Generator project! This Python script generates random health stats for warriors using a dice roll mechanic.
 
