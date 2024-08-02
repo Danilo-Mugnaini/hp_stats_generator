@@ -1,11 +1,11 @@
 
 # HP Stats Generator
 
-Welcome to the Character Stats Generator project! This Python script generates random health stats for warriors using a dice roll mechanic.
+Welcome to the HP Stats Generator project! This Python script generates random health stats for warriors using a dice roll mechanic.
 
 ## Overview
 
-The Character Stats Generator allows users to name three warriors and roll dice to determine their health stats. The game uses dice rolls to simulate randomness, adding an element of chance to the characters' health.
+The HP Stats Generator allows users to name three warriors and roll dice to determine their health stats. The game uses dice rolls to simulate randomness, adding an element of chance to the characters' health.
 
 ## Features
 
@@ -16,12 +16,12 @@ The Character Stats Generator allows users to name three warriors and roll dice 
 
 ## Installation
 
-To run the Character Stats Generator, follow these steps:
+To run the HP Stats Generator, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Danilo-Mugnaini/char_hp_generator.git
-   cd char_hp_generator
+   git clone https://github.com/Danilo-Mugnaini/hp_stats_generator.git
+   cd hp_stats_generator
    ```
 
 2. **(Optional) Create and activate a virtual environment:**
